@@ -1,0 +1,12 @@
+/* styles.css */
+
+.image-container img {
+    border-radius: 8px;
+}
+
+/* Additional responsive styles if necessary */
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+}
