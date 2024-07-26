@@ -65,3 +65,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Tailwind CSS](https://tailwindcss.com/) for providing a utility-first CSS framework
 - [Imgix](https://www.imgix.com/) for image processing and optimization
 
+## Future Contributions .. To do:
+
+- Refactor repo into react app
+- Automation features
+- Integration w. 
+
+
