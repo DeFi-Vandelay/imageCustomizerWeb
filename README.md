@@ -68,6 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Future Contributions .. To do:
 
 - Refactor repo into react app
+- Additional functionality; add logo/watermark overlay.
 - Automation features
 - Integration w. Make.com
 - Package into saas UI for B2C testing
