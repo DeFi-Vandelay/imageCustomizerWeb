@@ -69,6 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Refactor repo into react app
 - Automation features
-- Integration w. 
+- Integration w. Make.com
+- Package into saas UI for B2C testing
 
 
